@@ -24,6 +24,16 @@ RSA.sign(inJsonStr.getBytes("GBK"), config.PRIVATEKEY);
 ```
 
 
+## python
+
+```python
+import rsa 
+# python 3.x
+
+# rsa 验签通过
+
+```
+
 ### Time
   * 2018年12月01日20:02:21
 
